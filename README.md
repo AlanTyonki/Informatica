@@ -11,4 +11,4 @@ Logo de la UAM: "https://github.com/jzavalar/Informatica/blob/main/images/conjun
 **CONTACTO**
 **Correo electrónico: [csh22320l6841@izt.uam.mx(mailto:csh2232016841@izt.uam.mx)
 
-**Telegram:** <img src="https://github.com/jzavalar/Informatica/blob/main/images /telegram_logo.svg" alt="Telegram" width="30%"/> [jzavalar.t.me](https://jzavalar.t.me)
+**Telegram:** <img src="https://github.com/jzavalar/Informatica/blob/main/images /telegram_logo.svg" alt="Telegram" width="30%"/> [jzavalar.t.me](https://Alan D.)
