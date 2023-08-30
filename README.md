@@ -5,3 +5,5 @@ Despliege de imagen:
 
 Liga:
 [HITBOX](https://img.freepik.com/vector-premium/patente-automovil-deportivo-2019_509477-128.jpg?w=740)
+
+Logo de la UAM: "https://github.com/jzavalar/Informatica/blob/main/images/conjunto-baseIzt.png"
